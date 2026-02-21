@@ -1,7 +1,8 @@
 # Alberta Oil Sands Production Analysis
 ## AER ST39 Data • 2022–2024
 
-![Dashboard Preview](Alberta_Oil & Sands_Dashboard.pdf)
+![Dashboard Preview](Screenshot_Dashboard.png)
+
 
 **Portfolio project**: Complete ETL pipeline + interactive Power BI dashboard tracking Alberta mineable oil sands production across 9 major operators.
 
