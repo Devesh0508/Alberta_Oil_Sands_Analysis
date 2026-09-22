@@ -96,7 +96,7 @@ Stating this is deliberate. A pipeline whose limitations are undocumented is a p
 ```bash
 # 1. Pull the raw ST39 workbooks from aer.ca/st39
 # 2. Run the pipeline
-jupyter notebook data_loading_Alberta-energy.ipynb
+jupyter notebook "data_loading_Alberta energy.ipynb"
 # 3. Power BI → Get Data → ab_energy_master.csv
 ```
 
